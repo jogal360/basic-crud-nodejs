@@ -1,0 +1,10 @@
+{
+	"connection" : {
+		"portHttp"  : 3000,
+		"portHttps" : 8001
+	},
+	"mongoDB" : {
+		"host" : "localhost",
+		"dbname": "test_run3"
+	}
+}
